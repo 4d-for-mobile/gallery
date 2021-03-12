@@ -35,7 +35,7 @@ see [package.json](package.json)
 
 #### data
 
-- [@4d-for-ios/gallery_api](https://github.com/4d-for-ios/gallery_api)
+- [@4d-for-ios/gallery_api](https://github.com/4d-for-mobile/gallery_api)
 
 _Configuring npm for use with GitHub Packages_
 https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages
