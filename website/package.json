@@ -1,7 +1,7 @@
 {
   "name": "gallery",
   "description": "gallery",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Eric Marchand <eric.marchand@4d.com>",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "publish-gh-pages": "gallery-publish"
   },
   "dependencies": {
-    "@4d-for-ios/gallery_api": "^1.1.0",
+    "@4d-for-mobile/gallery_api": "^1.1.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-brands-svg-icons": "^5.12.1",
     "@fortawesome/free-regular-svg-icons": "^5.12.1",
