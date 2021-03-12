@@ -35,10 +35,12 @@ see [package.json](package.json)
 
 #### data
 
-- [@4d-for-ios/gallery_api](https://github.com/4d-for-mobile/gallery_api)
+- [@4d-for-mobile/gallery_api](https://github.com/4d-for-mobile/gallery_api)
 
 _Configuring npm for use with GitHub Packages_
 https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages
+
+need to add [GPR2_TOKEN](https://github.com/4d-for-mobile/gallery/settings/secrets/actions) with package registry access to this project
 
 ### css
 
