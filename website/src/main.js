@@ -9,6 +9,10 @@ import { faStar } from '@fortawesome/free-solid-svg-icons'
 library.add(faStar);
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
 library.add(faGithub);
+import { faApple } from '@fortawesome/free-brands-svg-icons'
+library.add(faApple);
+import { faAndroid } from '@fortawesome/free-brands-svg-icons'
+library.add(faAndroid);
 import { faQuestionCircle } from '@fortawesome/free-solid-svg-icons'
 library.add(faQuestionCircle);
 import { faCloudDownloadAlt } from '@fortawesome/free-solid-svg-icons'
@@ -24,9 +28,9 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 
 import VueImg from 'v-img';
 Vue.use(VueImg, {
-  altAsTitle: false,
-  sourceButton: true,
-  thumbnails: false,
+    altAsTitle: false,
+    sourceButton: true,
+    thumbnails: false,
 });
 // App
 
@@ -37,18 +41,18 @@ import Data from './components/Data.vue'
 
 // Routes
 const routes = [
-  { path: '/', redirect: '/type/form-list' },
-  { path: '/type/:type', component: Data, props: true},
-  { path: '/type/:type/picker/:picker', component: Data, props: true}
+    { path: '/', redirect: '/type/form-list' },
+    { path: '/type/:type', component: Data, props: true },
+    { path: '/type/:type/picker/:picker', component: Data, props: true }
 ]
 
 const router = new VueRouter({
-  routes
+    routes
 });
 
 // Run
 new Vue({
-  el: '#app',
-  router,
-  render: h => h(App)
+    el: '#app',
+    router,
+    render: h => h(App)
 });
