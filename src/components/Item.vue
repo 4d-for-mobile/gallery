@@ -33,7 +33,10 @@
             <span class="v-align-baseline">{{item.stargazers_count}}</span>
           </div>
           <div v-else class="col-5 col-sm-5"></div> 
-          <div class="col-4 col-sm-4"></div>
+          <div class="col-4 col-sm-4">
+            <span v-if="item.ios" class="tooltipped tooltipped-s" aria-label="Avaiable for iOS" ><font-awesome-icon :icon="['fab', 'apple']" /> </span>
+            <span v-if="item.android" class="tooltipped tooltipped-s" aria-label="Avaiable for android" ><font-awesome-icon :icon="['fab', 'android']" /> </span>
+          </div>
           <div class="col-1 col-sm-1 cursor-pointer tooltipped tooltipped-s" aria-label="Open on github" @click="openURL" >
             <font-awesome-icon :icon="['fab', 'github']" />
           </div>
@@ -127,12 +130,14 @@ export default {
           var location = window.location
           var rootURL = location.protocol+"//"+location.host+location.pathname
           if (window.location.host.includes("localhost")) {
-             rootURL = "https://4d-for-ios.github.io/gallery/" // to test
+             rootURL = "https://4d-for-mobile.github.io/gallery/" // to test
           }
           this.item.image_url = rootURL + this.item.image_url
         }
       }
       this.item.has_image = this.item.image_url != null;
+      this.item.ios = true;
+      this.item.android = true;
       if (!this.item.has_image) {
         var query = this.avatars;
         query["name"]=this.item.name;

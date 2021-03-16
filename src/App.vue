@@ -29,7 +29,8 @@ export default {
 };
 </script>
 <style lang="sass">
-@import "~primer-css/index.scss"
+$marketing-font-path: "/node_modules/@primer/css/fonts/" !default;
+@import "@primer/css/index.scss"
 </style>
 <style scoped>
 #app {

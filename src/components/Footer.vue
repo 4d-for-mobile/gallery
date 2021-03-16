@@ -2,7 +2,7 @@
     <footer class="nav-footer" id="footer">
       <section class="sitemap">
         <a href="https://www.4d.com" class="nav-home">
-          <img src="https://developer.4d.com/4d-for-ios/img/logohome.png" alt="4D for iOS" />
+          <img src="https://developer.4d.com/4d-for-ios/img/logohome.png" alt="4D go mobile" />
         </a>
         <div>
           <h5>Community</h5>
