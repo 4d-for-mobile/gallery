@@ -1,0 +1,12 @@
+{
+    "type": "node",
+    "request": "launch",
+    "name": "build",
+    "program": "${workspaceFolder}/node_modules/.bin/webpack-cli",
+    "args": [
+      "--config",
+      "webpack.config.js"
+    ],
+    "autoAttachChildProcesses": true,
+    "stopOnEntry": true
+}

@@ -49,20 +49,20 @@ export default {
   methods: {
     openContributing() {
       window.open(
-        "https://github.com/4d-for-ios/gallery/blob/master/.github/CONTRIBUTING.md"
+        "https://github.com/4d-for-mobile/gallery/blob/master/.github/CONTRIBUTING.md"
       );
     },
     fullGallery() {
       var location = window.location
       var rootURL = location.protocol+"//"+location.host+location.pathname
       if (window.location.host.includes("localhost")) {
-            rootURL = "https://4d-for-ios.github.io/gallery/" // to test
+            rootURL = "https://4d-for-mobile.github.io/gallery/" // to test
       }
       window.open(rootURL+"/#/type/"+this.type);
     },
     share() {
       window.open(
-        "https://github.com/4d-for-ios/gallery/blob/master/.github/CONTRIBUTING.md#how-do-you-add-a-package"
+        "https://github.com/4d-for-mobile/gallery/blob/master/.github/CONTRIBUTING.md#how-do-you-add-a-package"
       );
     }
   }

@@ -3,7 +3,7 @@
     <div class="headerWrapper wrapper">
       <header>
         <a href="https://developer.4d.com/4d-for-ios/">
-          <h2 class="headerTitle">4D for iOS</h2>
+          <h2 class="headerTitle">4D go mobile</h2>
         </a>
         <div class="navigationWrapper navigationSlider">
           <nav class="slidingNav">
