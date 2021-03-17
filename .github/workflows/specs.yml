@@ -16,7 +16,6 @@ jobs:
           fetch-depth: 1
       - name: © Copy specs
         run: |
-          brew install yq
           REPOSITORY_NAME=$(jq --raw-output '.repository.name' $GITHUB_EVENT_PATH)
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
