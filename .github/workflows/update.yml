@@ -23,6 +23,7 @@ jobs:
           rm gallery-workflow.zip
           if [ -f .build/release/gallery-workflow ]; then
             echo "gallery-workflow installed"
+            .build/release/gallery-workflow version
           else
             echo "gallery-workflow cannot be downloaded using url https://github.com/$GITHUB_REPOSITORY-workflow/releases/latest/download/gallery-workflow.zip"
             exit 1
