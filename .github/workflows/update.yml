@@ -42,7 +42,7 @@ jobs:
         run: |
           rm -f .build/release/gallery-workflow
           git add .
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "eric.marchand@4d.com"
+          git config --local user.name "mesopelagique"
           git diff --quiet && git diff --staged --quiet || git commit -a -m "🔄 Update"
           ./.github/push.sh "master" "${{ secrets.PUBLISH_TOKEN }}"
