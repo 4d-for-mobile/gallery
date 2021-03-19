@@ -54,9 +54,21 @@ export default {
             console.log("no more search");
           }
           if (this.target) {
-            if (this.target=="ios" || this.target=="android") {
-              this.filtered = this.filtered.filter(item => (item.target == null && this.target=="ios" ) || (item.target != null && item.target.includes(this.target)));
-            }// else any unexpected types are considerer as "all"
+            let targets=this.target.split(",");
+            this.filtered = this.filtered.filter(function (item) {
+              if (item.target == null) {
+                item.target = ["ios"]
+              }
+              var ok = true;
+              for (var index in targets) {
+                var target = targets[index];
+                if (!item.target.includes(target)) {
+                  ok = false;
+                  break;
+                }
+              }
+              return ok;
+            });
           }
     }
   },
