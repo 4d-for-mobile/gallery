@@ -42,6 +42,9 @@ export default {
         });
     },
     filter() {
+          console.log("type:"+this.type);
+          console.log("target:"+this.target);
+          console.log("picker:"+this.picker);  
           if (this.searchTerm) {
             var search = this.searchTerm.toLowerCase();
             this.filtered = this.items.filter(item => item.name.toLowerCase().includes(search) || item.description.toLowerCase().includes(search) || item.author.toLowerCase().includes(search));
@@ -51,7 +54,9 @@ export default {
             console.log("no more search");
           }
           if (this.target) {
-            this.filtered = this.filtered.filter(item => false); // TODO filter according to item data
+            if (this.target=="ios" || this.target=="android") {
+              this.filtered = this.filtered.filter(item => (item.target == null && this.target=="ios" ) || (item.target != null && item.target.includes(this.target)));
+            }// else any unexpected types are considerer as "all"
           }
     }
   },
