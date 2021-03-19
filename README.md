@@ -48,4 +48,4 @@ need to add [GPR2_TOKEN](https://github.com/4d-for-mobile/gallery/settings/secre
 
 ### Todo
 
-- [ ] update website on Spec change because Spec data are now in github pages, and not on github website.
+- [ ] update website on Spec change because Spec data are now in github pages, and not on github website. Maybe with a user token?
