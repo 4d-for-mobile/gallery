@@ -136,8 +136,13 @@ export default {
         }
       }
       this.item.has_image = this.item.image_url != null;
-      this.item.ios = true;
-      this.item.android = true;
+      if (this.item.target == null) {
+        this.item.ios = true;
+        this.item.android = false;
+      } else {
+        this.item.ios = this.item.target.includes("ios");
+        this.item.android = this.item.target.includes("android");
+      }
       if (!this.item.has_image) {
         var query = this.avatars;
         query["name"]=this.item.name;
