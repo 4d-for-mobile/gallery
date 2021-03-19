@@ -43,7 +43,9 @@ import Data from './components/Data.vue'
 const routes = [
     { path: '/', redirect: '/type/form-list' },
     { path: '/type/:type', component: Data, props: true },
-    { path: '/type/:type/picker/:picker', component: Data, props: true }
+    { path: '/type/:type/picker/:picker', component: Data, props: true },
+    { path: '/type/:type/target/:target', component: Data, props: true },
+    { path: '/type/:type/picker/:picker/target/:target', component: Data, props: true }
 ]
 
 const router = new VueRouter({

@@ -34,8 +34,8 @@
           </div>
           <div v-else class="col-5 col-sm-5"></div> 
           <div class="col-4 col-sm-4">
-            <span v-if="item.ios" class="tooltipped tooltipped-s" aria-label="Avaiable for iOS" ><font-awesome-icon :icon="['fab', 'apple']" /> </span>
-            <span v-if="item.android" class="tooltipped tooltipped-s" aria-label="Avaiable for android" ><font-awesome-icon :icon="['fab', 'android']" /> </span>
+            <span v-if="item.ios && picker == null" class="tooltipped tooltipped-s" aria-label="Available for iOS" ><font-awesome-icon :icon="['fab', 'apple']" /> </span>
+            <span v-if="item.android && picker == null" class="tooltipped tooltipped-s" aria-label="Available for android" ><font-awesome-icon :icon="['fab', 'android']" /> </span>
           </div>
           <div class="col-1 col-sm-1 cursor-pointer tooltipped tooltipped-s" aria-label="Open on github" @click="openURL" >
             <font-awesome-icon :icon="['fab', 'github']" />
