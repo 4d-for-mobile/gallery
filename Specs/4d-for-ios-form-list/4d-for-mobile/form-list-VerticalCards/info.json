@@ -214,7 +214,7 @@
         "browser_download_url": "https://github.com/4d-for-mobile/form-list-VerticalCards/releases/download/0.1.1/form-list-VerticalCards.zip",
         "content_type": "application/zip",
         "created_at": "2021-03-29T07:15:03Z",
-        "download_count": 0,
+        "download_count": 1,
         "id": 34133258,
         "label": "",
         "name": "form-list-VerticalCards.zip",
@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-for-mobile/form-list-VerticalCards/zipball/0.1.1"
   },
   "releases_url": "https://api.github.com/repos/4d-for-mobile/form-list-VerticalCards/releases{/id}",
-  "size": 3699,
+  "size": 3700,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-VerticalCards/{archive_format}{/ref}",
     "archived": false,

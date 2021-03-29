@@ -209,7 +209,42 @@
   "pulls_url": "https://api.github.com/repos/4d-for-mobile/form-list-Tasks/pulls{/number}",
   "pushed_at": "2021-03-29T07:15:24Z",
   "release": {
-    "assets": [],
+    "assets": [
+      {
+        "browser_download_url": "https://github.com/4d-for-mobile/form-list-Tasks/releases/download/0.1.1/form-list-Tasks.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-03-29T07:25:14Z",
+        "download_count": 0,
+        "id": 34133567,
+        "label": "",
+        "name": "form-list-Tasks.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM0MTMzNTY3",
+        "size": 1144688,
+        "state": "uploaded",
+        "updated_at": "2021-03-29T07:25:15Z",
+        "uploader": {
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/apps/github-actions",
+          "id": 41898282,
+          "login": "github-actions[bot]",
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "type": "Bot",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        },
+        "url": "https://api.github.com/repos/4d-for-mobile/form-list-Tasks/releases/assets/34133567"
+      }
+    ],
     "assets_url": "https://api.github.com/repos/4d-for-mobile/form-list-Tasks/releases/40616972/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/59135882?v=4",
@@ -248,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-for-mobile/form-list-Tasks/zipball/0.1.1"
   },
   "releases_url": "https://api.github.com/repos/4d-for-mobile/form-list-Tasks/releases{/id}",
-  "size": 1124,
+  "size": 1126,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-Tasks/{archive_format}{/ref}",
     "archived": false,

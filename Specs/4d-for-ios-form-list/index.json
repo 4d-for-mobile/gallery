@@ -232,6 +232,57 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-Profile/releases/download/0.1.1/form-list-Profile.zip",
+      "html_url": "https://github.com/4d-for-mobile/form-list-Profile",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-Profile/0.1.1/logo.png",
+      "name": "Profil",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-Profile/0.1.1/preview.gif",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-Profile/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.1"
+    },
+    {
+      "author": "4d-for-mobile",
+      "description": "4D Mobile List Form template",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-SimpleCollection/releases/download/0.1.1/form-list-SimpleCollection.zip",
+      "html_url": "https://github.com/4d-for-mobile/form-list-SimpleCollection",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SimpleCollection/0.1.1/logo.png",
+      "name": "Simple Collection",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SimpleCollection/0.1.1/preview.gif",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-SimpleCollection/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.1"
+    },
+    {
+      "author": "4d-for-mobile",
+      "description": "4D Mobile List Form template",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-SimpleTable/releases/download/0.1.1/form-list-SimpleTable.zip",
+      "html_url": "https://github.com/4d-for-mobile/form-list-SimpleTable",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SimpleTable/0.1.1/logo.png",
+      "name": "Simple Table",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SimpleTable/0.1.1/preview.gif",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-SimpleTable/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.1"
+    },
+    {
+      "author": "4d-for-mobile",
+      "description": "4D Mobile List Form template",
       "download_count": 2,
       "download_url": "https://github.com/4d-for-mobile/form-list-SimpleVisualTable/releases/download/0.1.0/form-list-SimpleVisualTable.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-SimpleVisualTable",
@@ -298,6 +349,23 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-Tasks/releases/download/0.1.1/form-list-Tasks.zip",
+      "html_url": "https://github.com/4d-for-mobile/form-list-Tasks",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-Tasks/0.1.1/logo.png",
+      "name": "Tasks List",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-Tasks/0.1.1/preview.gif",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-Tasks/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.1"
+    },
+    {
+      "author": "4d-for-mobile",
+      "description": "4D Mobile List Form template",
       "download_count": 2,
       "download_url": "https://github.com/4d-for-mobile/form-list-TasksCollection/releases/download/0.1.0/form-list-TasksCollection.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-TasksCollection",
@@ -346,7 +414,7 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 0,
+      "download_count": 1,
       "download_url": "https://github.com/4d-for-mobile/form-list-VerticalCards/releases/download/0.1.1/form-list-VerticalCards.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-VerticalCards",
       "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-VerticalCards/0.1.1/logo.png",
