@@ -19,19 +19,19 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 7,
-      "download_url": "https://github.com/4d-for-mobile/form-list-ClientList/releases/download/0.1.0/form-list-ClientList.zip",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-for-mobile/form-list-ClientList/releases/download/0.1.1/form-list-ClientList.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-ClientList",
-      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-ClientList/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-ClientList/0.1.1/logo.png",
       "name": "Client List",
-      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-ClientList/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-ClientList/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-ClientList/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
