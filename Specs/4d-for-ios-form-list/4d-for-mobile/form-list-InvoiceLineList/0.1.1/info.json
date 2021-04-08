@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/4d-for-mobile/form-list-FourLabelsList/releases/download/0.1.1/form-list-FourLabelsList.zip",
+      "browser_download_url": "https://github.com/4d-for-mobile/form-list-InvoiceLineList/releases/download/0.1.1/form-list-InvoiceLineList.zip",
       "content_type": "application/zip",
-      "created_at": "2021-04-08T15:12:46Z",
-      "download_count": 1,
-      "id": 34655582,
+      "created_at": "2021-04-08T15:51:41Z",
+      "download_count": 0,
+      "id": 34657638,
       "label": "",
-      "name": "form-list-FourLabelsList.zip",
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDM0NjU1NTgy",
-      "size": 2034636,
+      "name": "form-list-InvoiceLineList.zip",
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDM0NjU3NjM4",
+      "size": 3405335,
       "state": "uploaded",
-      "updated_at": "2021-04-08T15:12:46Z",
+      "updated_at": "2021-04-08T15:51:42Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -32,10 +32,10 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/4d-for-mobile/form-list-FourLabelsList/releases/assets/34655582"
+      "url": "https://api.github.com/repos/4d-for-mobile/form-list-InvoiceLineList/releases/assets/34657638"
     }
   ],
-  "assets_url": "https://api.github.com/repos/4d-for-mobile/form-list-FourLabelsList/releases/41130511/assets",
+  "assets_url": "https://api.github.com/repos/4d-for-mobile/form-list-InvoiceLineList/releases/41133237/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
     "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -57,18 +57,18 @@
     "url": "https://api.github.com/users/quentinmarciset"
   },
   "body": "",
-  "created_at": "2021-04-08T15:09:46Z",
+  "created_at": "2021-04-08T15:51:00Z",
   "draft": false,
-  "html_url": "https://github.com/4d-for-mobile/form-list-FourLabelsList/releases/tag/0.1.1",
-  "id": 41130511,
+  "html_url": "https://github.com/4d-for-mobile/form-list-InvoiceLineList/releases/tag/0.1.1",
+  "id": 41133237,
   "name": "🧹 Clean Android layout",
-  "node_id": "MDc6UmVsZWFzZTQxMTMwNTEx",
+  "node_id": "MDc6UmVsZWFzZTQxMTMzMjM3",
   "prerelease": false,
-  "published_at": "2021-04-08T15:11:56Z",
+  "published_at": "2021-04-08T15:51:16Z",
   "tag_name": "0.1.1",
-  "tarball_url": "https://api.github.com/repos/4d-for-mobile/form-list-FourLabelsList/tarball/0.1.1",
+  "tarball_url": "https://api.github.com/repos/4d-for-mobile/form-list-InvoiceLineList/tarball/0.1.1",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/4d-for-mobile/form-list-FourLabelsList/releases/41130511/assets{?name,label}",
-  "url": "https://api.github.com/repos/4d-for-mobile/form-list-FourLabelsList/releases/41130511",
-  "zipball_url": "https://api.github.com/repos/4d-for-mobile/form-list-FourLabelsList/zipball/0.1.1"
+  "upload_url": "https://uploads.github.com/repos/4d-for-mobile/form-list-InvoiceLineList/releases/41133237/assets{?name,label}",
+  "url": "https://api.github.com/repos/4d-for-mobile/form-list-InvoiceLineList/releases/41133237",
+  "zipball_url": "https://api.github.com/repos/4d-for-mobile/form-list-InvoiceLineList/zipball/0.1.1"
 }

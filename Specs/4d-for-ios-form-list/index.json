@@ -68,19 +68,19 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 2,
-      "download_url": "https://github.com/4d-for-mobile/form-list-FiveLabelsList/releases/download/0.1.0/form-list-FiveLabelsList.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-FiveLabelsList/releases/download/0.1.1/form-list-FiveLabelsList.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-FiveLabelsList",
-      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-FiveLabelsList/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-FiveLabelsList/0.1.1/logo.png",
       "name": "Five Label Table",
-      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-FiveLabelsList/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-FiveLabelsList/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-FiveLabelsList/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
@@ -101,7 +101,7 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 0,
+      "download_count": 1,
       "download_url": "https://github.com/4d-for-mobile/form-list-FourLabelsList/releases/download/0.1.1/form-list-FourLabelsList.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-FourLabelsList",
       "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-FourLabelsList/0.1.1/logo.png",
@@ -134,36 +134,36 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-for-mobile/form-list-InvoiceLineList/releases/download/0.1.0/form-list-InvoiceLineList.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-InvoiceLineList/releases/download/0.1.1/form-list-InvoiceLineList.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-InvoiceLineList",
-      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-InvoiceLineList/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-InvoiceLineList/0.1.1/logo.png",
       "name": "Invoice Line List",
-      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-InvoiceLineList/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-InvoiceLineList/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-InvoiceLineList/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-for-mobile/form-list-InvoiceList/releases/download/0.1.0/form-list-InvoiceList.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-InvoiceList/releases/download/0.1.1/form-list-InvoiceList.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-InvoiceList",
-      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-InvoiceList/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-InvoiceList/0.1.1/logo.png",
       "name": "Invoice List",
-      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-InvoiceList/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-InvoiceList/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-InvoiceList/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
@@ -315,36 +315,36 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 2,
-      "download_url": "https://github.com/4d-for-mobile/form-list-SmoothTable/releases/download/0.1.0/form-list-SmoothTable.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-SmoothTable/releases/download/0.1.1/form-list-SmoothTable.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-SmoothTable",
-      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SmoothTable/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SmoothTable/0.1.1/logo.png",
       "name": "Smooth Table",
-      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SmoothTable/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SmoothTable/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-SmoothTable/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-for-mobile/form-list-SquareProfile/releases/download/0.1.0/form-list-SquareProfile.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-SquareProfile/releases/download/0.1.1/form-list-SquareProfile.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-SquareProfile",
-      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SquareProfile/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SquareProfile/0.1.1/logo.png",
       "name": "Square Profil",
-      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SquareProfile/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SquareProfile/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-SquareProfile/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
@@ -431,19 +431,19 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-for-mobile/form-list-VisualTable/releases/download/0.1.0/form-list-VisualTable.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-VisualTable/releases/download/0.1.1/form-list-VisualTable.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-VisualTable",
-      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-VisualTable/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-VisualTable/0.1.1/logo.png",
       "name": "Visual Table",
-      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-VisualTable/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-VisualTable/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-VisualTable/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }

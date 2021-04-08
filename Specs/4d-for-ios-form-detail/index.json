@@ -52,19 +52,19 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-for-mobile/form-detail-Dashboard/releases/download/0.1.0/form-detail-Dashboard.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-detail-Dashboard/releases/download/0.1.1/form-detail-Dashboard.zip",
       "html_url": "https://github.com/4d-for-mobile/form-detail-Dashboard",
-      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-Dashboard/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-Dashboard/0.1.1/logo.png",
       "name": "Dashboard",
-      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-Dashboard/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-Dashboard/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-detail-Dashboard/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
@@ -151,70 +151,70 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 4,
-      "download_url": "https://github.com/4d-for-mobile/form-detail-RightCutHeader/releases/download/0.1.0/form-detail-RightCutHeader.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-detail-RightCutHeader/releases/download/0.1.1/form-detail-RightCutHeader.zip",
       "html_url": "https://github.com/4d-for-mobile/form-detail-RightCutHeader",
-      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-RightCutHeader/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-RightCutHeader/0.1.1/logo.png",
       "name": "Right Cut Header",
-      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-RightCutHeader/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-RightCutHeader/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-detail-RightCutHeader/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 2,
-      "download_url": "https://github.com/4d-for-mobile/form-detail-SimpleContact/releases/download/0.1.0/form-detail-SimpleContact.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-detail-SimpleContact/releases/download/0.1.1/form-detail-SimpleContact.zip",
       "html_url": "https://github.com/4d-for-mobile/form-detail-SimpleContact",
-      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleContact/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleContact/0.1.1/logo.png",
       "name": "Simple Contact",
-      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleContact/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleContact/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-detail-SimpleContact/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-for-mobile/form-detail-SimpleHeader/releases/download/0.1.0/form-detail-SimpleHeader.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-detail-SimpleHeader/releases/download/0.1.1/form-detail-SimpleHeader.zip",
       "html_url": "https://github.com/4d-for-mobile/form-detail-SimpleHeader",
-      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleHeader/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleHeader/0.1.1/logo.png",
       "name": "Simple Header",
-      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleHeader/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleHeader/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-detail-SimpleHeader/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 2,
-      "download_url": "https://github.com/4d-for-mobile/form-detail-SimpleList/releases/download/0.1.0/form-detail-SimpleList.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-detail-SimpleList/releases/download/0.1.1/form-detail-SimpleList.zip",
       "html_url": "https://github.com/4d-for-mobile/form-detail-SimpleList",
-      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleList/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleList/0.1.1/logo.png",
       "name": "Simple List",
-      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleList/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-SimpleList/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-detail-SimpleList/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
