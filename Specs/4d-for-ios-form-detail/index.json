@@ -85,19 +85,19 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 4,
-      "download_url": "https://github.com/4d-for-mobile/form-detail-LeftCutHeader/releases/download/0.1.1/form-detail-LeftCutHeader.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-detail-LeftCutHeader/releases/download/0.1.2/form-detail-LeftCutHeader.zip",
       "html_url": "https://github.com/4d-for-mobile/form-detail-LeftCutHeader",
-      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-LeftCutHeader/0.1.1/logo.png",
+      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-LeftCutHeader/0.1.2/logo.png",
       "name": "Left Cut Header",
-      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-LeftCutHeader/0.1.1/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-LeftCutHeader/0.1.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "author": "4d-for-mobile",
@@ -134,36 +134,36 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 4,
-      "download_url": "https://github.com/4d-for-mobile/form-detail-ParallaxHeader/releases/download/0.1.1/form-detail-ParallaxHeader.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-detail-ParallaxHeader/releases/download/0.1.2/form-detail-ParallaxHeader.zip",
       "html_url": "https://github.com/4d-for-mobile/form-detail-ParallaxHeader",
-      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-ParallaxHeader/0.1.1/logo.png",
+      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-ParallaxHeader/0.1.2/logo.png",
       "name": "Parallax Header",
-      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-ParallaxHeader/0.1.1/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-ParallaxHeader/0.1.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 5,
-      "download_url": "https://github.com/4d-for-mobile/form-detail-RightCutHeader/releases/download/0.1.1/form-detail-RightCutHeader.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-detail-RightCutHeader/releases/download/0.1.2/form-detail-RightCutHeader.zip",
       "html_url": "https://github.com/4d-for-mobile/form-detail-RightCutHeader",
-      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-RightCutHeader/0.1.1/logo.png",
+      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-RightCutHeader/0.1.2/logo.png",
       "name": "Right Cut Header",
-      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-RightCutHeader/0.1.1/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-RightCutHeader/0.1.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-detail-RightCutHeader/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "author": "4d-for-mobile",
@@ -300,19 +300,19 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-for-mobile/form-detail-VisualContact/releases/download/0.1.1/form-detail-VisualContact.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-detail-VisualContact/releases/download/0.1.2/form-detail-VisualContact.zip",
       "html_url": "https://github.com/4d-for-mobile/form-detail-VisualContact",
-      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-VisualContact/0.1.1/logo.png",
+      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-VisualContact/0.1.2/logo.png",
       "name": "Visual Contact",
-      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-VisualContact/0.1.1/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-VisualContact/0.1.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-detail-VisualContact/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "author": "mesopelagique",
