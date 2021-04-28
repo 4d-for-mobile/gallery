@@ -207,21 +207,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/pulls{/number}",
-  "pushed_at": "2021-04-23T08:06:31Z",
+  "pushed_at": "2021-04-28T15:18:11Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-for-mobile/form-detail-LeftCutHeader/releases/download/0.1.2/form-detail-LeftCutHeader.zip",
+        "browser_download_url": "https://github.com/4d-for-mobile/form-detail-LeftCutHeader/releases/download/0.1.3/form-detail-LeftCutHeader.zip",
         "content_type": "application/zip",
-        "created_at": "2021-04-23T08:06:52Z",
-        "download_count": 2,
-        "id": 35671981,
+        "created_at": "2021-04-28T15:19:11Z",
+        "download_count": 0,
+        "id": 35977526,
         "label": "",
         "name": "form-detail-LeftCutHeader.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM1NjcxOTgx",
-        "size": 1152724,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM1OTc3NTI2",
+        "size": 1152760,
         "state": "uploaded",
-        "updated_at": "2021-04-23T08:06:52Z",
+        "updated_at": "2021-04-28T15:19:12Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -242,10 +242,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/releases/assets/35671981"
+        "url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/releases/assets/35977526"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/releases/41887783/assets",
+    "assets_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/releases/42146577/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -267,20 +267,20 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2021-04-23T07:59:04Z",
+    "created_at": "2021-04-28T15:17:08Z",
     "draft": false,
-    "html_url": "https://github.com/4d-for-mobile/form-detail-LeftCutHeader/releases/tag/0.1.2",
-    "id": 41887783,
-    "name": "👓 Adjustments",
-    "node_id": "MDc6UmVsZWFzZTQxODg3Nzgz",
+    "html_url": "https://github.com/4d-for-mobile/form-detail-LeftCutHeader/releases/tag/0.1.3",
+    "id": 42146577,
+    "name": "👓 Add Parallax effect",
+    "node_id": "MDc6UmVsZWFzZTQyMTQ2NTc3",
     "prerelease": false,
-    "published_at": "2021-04-23T08:06:31Z",
-    "tag_name": "0.1.2",
-    "tarball_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/tarball/0.1.2",
+    "published_at": "2021-04-28T15:18:11Z",
+    "tag_name": "0.1.3",
+    "tarball_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/tarball/0.1.3",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/releases/41887783/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/releases/41887783",
-    "zipball_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/zipball/0.1.2"
+    "upload_url": "https://uploads.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/releases/42146577/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/releases/42146577",
+    "zipball_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/zipball/0.1.3"
   },
   "releases_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/releases{/id}",
   "size": 1143,
@@ -397,7 +397,7 @@
   "teams_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/teams",
   "temp_clone_token": "",
   "trees_url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader/git/trees{/sha}",
-  "updated_at": "2021-04-23T07:59:07Z",
+  "updated_at": "2021-04-28T15:17:11Z",
   "url": "https://api.github.com/repos/4d-for-mobile/form-detail-LeftCutHeader",
   "visibility": "public",
   "watchers": 0,
