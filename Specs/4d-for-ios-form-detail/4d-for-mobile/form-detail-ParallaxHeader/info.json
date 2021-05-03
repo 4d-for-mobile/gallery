@@ -207,21 +207,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/pulls{/number}",
-  "pushed_at": "2021-04-09T05:27:35Z",
+  "pushed_at": "2021-04-23T08:06:36Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-for-mobile/form-detail-ParallaxHeader/releases/download/0.1.1/form-detail-ParallaxHeader.zip",
+        "browser_download_url": "https://github.com/4d-for-mobile/form-detail-ParallaxHeader/releases/download/0.1.2/form-detail-ParallaxHeader.zip",
         "content_type": "application/zip",
-        "created_at": "2021-04-09T05:27:55Z",
-        "download_count": 1,
-        "id": 34689513,
+        "created_at": "2021-04-23T08:07:13Z",
+        "download_count": 2,
+        "id": 35671991,
         "label": "",
         "name": "form-detail-ParallaxHeader.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM0Njg5NTEz",
-        "size": 1342917,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM1NjcxOTkx",
+        "size": 1342911,
         "state": "uploaded",
-        "updated_at": "2021-04-09T05:27:55Z",
+        "updated_at": "2021-04-23T08:07:13Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -242,10 +242,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/releases/assets/34689513"
+        "url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/releases/assets/35671991"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/releases/41162597/assets",
+    "assets_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/releases/41887789/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -267,23 +267,23 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2021-04-09T05:27:18Z",
+    "created_at": "2021-04-23T07:59:35Z",
     "draft": false,
-    "html_url": "https://github.com/4d-for-mobile/form-detail-ParallaxHeader/releases/tag/0.1.1",
-    "id": 41162597,
-    "name": "🧹 Clean Android layout",
-    "node_id": "MDc6UmVsZWFzZTQxMTYyNTk3",
+    "html_url": "https://github.com/4d-for-mobile/form-detail-ParallaxHeader/releases/tag/0.1.2",
+    "id": 41887789,
+    "name": "👓 Adjustments",
+    "node_id": "MDc6UmVsZWFzZTQxODg3Nzg5",
     "prerelease": false,
-    "published_at": "2021-04-09T05:27:35Z",
-    "tag_name": "0.1.1",
-    "tarball_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/tarball/0.1.1",
+    "published_at": "2021-04-23T08:06:36Z",
+    "tag_name": "0.1.2",
+    "tarball_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/tarball/0.1.2",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/releases/41162597/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/releases/41162597",
-    "zipball_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/zipball/0.1.1"
+    "upload_url": "https://uploads.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/releases/41887789/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/releases/41887789",
+    "zipball_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/zipball/0.1.2"
   },
   "releases_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/releases{/id}",
-  "size": 1321,
+  "size": 1322,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-detail-ParallaxHeader/{archive_format}{/ref}",
     "archived": false,
@@ -397,7 +397,7 @@
   "teams_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/teams",
   "temp_clone_token": "",
   "trees_url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader/git/trees{/sha}",
-  "updated_at": "2021-04-09T05:27:20Z",
+  "updated_at": "2021-04-23T07:59:38Z",
   "url": "https://api.github.com/repos/4d-for-mobile/form-detail-ParallaxHeader",
   "visibility": "public",
   "watchers": 0,
