@@ -100,14 +100,16 @@
     {
       "author": "4d-for-ios",
       "description": "4D for iOS Data Formatter",
-      "download_count": 27,
-      "download_url": "https://github.com/4d-for-ios/formatter-TextToImage/releases/download/0.0.1/formatter-TextToImage.zip",
-      "html_url": "https://github.com/4d-for-ios/formatter-TextToImage",
-      "image_url": "Specs/4d-for-ios-formatter/4d-for-ios/formatter-TextToImage/0.0.1/logo.png",
-      "name": "textToImage",
+      "download_count": 54,
+      "download_url": "https://github.com/4d-for-ios/formatter-Phone/releases/download/0.0.1/formatter-Phone.zip",
+      "html_url": "https://github.com/4d-for-ios/formatter-Phone",
+      "image_url": "Specs/4d-for-ios-formatter/4d-for-ios/formatter-Phone/0.0.1/logo.png",
+      "name": "phone",
       "stargazers_count": 0,
-      "stargazers_url": "https://api.github.com/repos/4d-for-ios/formatter-TextToImage/stargazers",
-      "target": [],
+      "stargazers_url": "https://api.github.com/repos/4d-for-ios/formatter-Phone/stargazers",
+      "target": [
+        "ios"
+      ],
       "version": "0.0.1"
     },
     {
