@@ -69,22 +69,6 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-for-mobile/form-detail-InvoiceDetail/releases/download/0.1.0/form-detail-InvoiceDetail.zip",
-      "html_url": "https://github.com/4d-for-mobile/form-detail-InvoiceDetail",
-      "image_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-InvoiceDetail/0.1.0/logo.png",
-      "name": "Invoice Detail",
-      "preview_url": "Specs/4d-for-ios-form-detail/4d-for-mobile/form-detail-InvoiceDetail/0.1.0/preview.gif",
-      "stargazers_count": 0,
-      "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-detail-InvoiceDetail/stargazers",
-      "target": [
-        "ios"
-      ],
-      "version": "0.1.0"
-    },
-    {
-      "author": "4d-for-mobile",
-      "description": "4D Mobile Detail Form template",
       "download_count": 5,
       "download_url": "https://github.com/4d-for-mobile/form-detail-LeftCutHeader/releases/download/0.1.3/form-detail-LeftCutHeader.zip",
       "html_url": "https://github.com/4d-for-mobile/form-detail-LeftCutHeader",
