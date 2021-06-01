@@ -3,7 +3,7 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 9,
+      "download_count": 10,
       "download_url": "https://github.com/4d-for-mobile/form-list-CardsTable/releases/download/0.1.0/form-list-CardsTable.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-CardsTable",
       "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-CardsTable/0.1.0/logo.png",
@@ -85,18 +85,18 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 4,
-      "download_url": "https://github.com/4d-for-mobile/form-list-FoldingCellList/releases/download/0.1.0/form-list-FoldingCellList.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-FoldingCellList/releases/download/0.1.1/form-list-FoldingCellList.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-FoldingCellList",
-      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-FoldingCellList/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-FoldingCellList/0.1.1/logo.png",
       "name": "Folding Cell List",
-      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-FoldingCellList/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-FoldingCellList/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-FoldingCellList/stargazers",
       "target": [
         "ios"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
@@ -299,18 +299,18 @@
     {
       "author": "4d-for-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-for-mobile/form-list-SlantedCollection/releases/download/0.1.0/form-list-SlantedCollection.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-for-mobile/form-list-SlantedCollection/releases/download/0.1.1/form-list-SlantedCollection.zip",
       "html_url": "https://github.com/4d-for-mobile/form-list-SlantedCollection",
-      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SlantedCollection/0.1.0/logo.png",
+      "image_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SlantedCollection/0.1.1/logo.png",
       "name": "Slanted Collection",
-      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SlantedCollection/0.1.0/preview.gif",
+      "preview_url": "Specs/4d-for-ios-form-list/4d-for-mobile/form-list-SlantedCollection/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-for-mobile/form-list-SlantedCollection/stargazers",
       "target": [
         "ios"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-for-mobile",
