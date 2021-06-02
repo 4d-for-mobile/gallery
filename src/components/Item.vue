@@ -37,13 +37,8 @@
             <span v-if="item.ios && picker == null" class="tooltipped tooltipped-s" aria-label="Available for iOS" ><font-awesome-icon :icon="['fab', 'apple']" /> </span>
             <span v-if="item.android && picker == null" class="tooltipped tooltipped-s" aria-label="Available for android" ><font-awesome-icon :icon="['fab', 'android']" /> </span>
           </div>
-          <div class="col-1 col-sm-1">
-            <div class="cursor-pointer tooltipped tooltipped-s d-inline" aria-label="Open on Github" @click="openURL" >
-               <font-awesome-icon :icon="['fab', 'github']" />
-            </div>
-            <div class="cursor-pointer tooltipped tooltipped-s d-inline" aria-label="Fork on Github" @click="fork" >
-              <font-awesome-icon :icon="['fa', 'code-branch']" />
-            </div>
+          <div class="col-1 col-sm-1 cursor-pointer tooltipped tooltipped-s" aria-label="Open on github" @click="openURL" >
+            <font-awesome-icon :icon="['fab', 'github']" />
           </div>
           <div class="col-2 col-sm-2 tooltipped tooltipped-s" aria-label="Latest version">
             <span class="v-align-baseline">{{item.version}}</span>
@@ -85,9 +80,6 @@ export default {
       window.open(
         this.item.stargazers_url.replace("api.github.com/repos", "github.com")
       );
-    },
-    fork() {
-      window.open(this.item.html_url+"/fork");
     },
     github() {
       window.open(this.item.html_url);
