@@ -19,6 +19,8 @@ import { faCloudDownloadAlt } from '@fortawesome/free-solid-svg-icons'
 library.add(faCloudDownloadAlt);
 import { faPlus } from '@fortawesome/free-solid-svg-icons'
 library.add(faPlus);
+import { faCodeBranch } from '@fortawesome/free-solid-svg-icons'
+library.add(faCodeBranch);
 
 import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons'
 library.add(faExternalLinkAlt);
