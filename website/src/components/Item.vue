@@ -138,7 +138,7 @@ export default {
           var location = window.location
           var rootURL = location.protocol+"//"+location.host+location.pathname
           if (window.location.host.includes("localhost")) {
-             rootURL = "https://4d-for-mobile.github.io/gallery/" // to test
+             rootURL = "https://4d-go-mobile.github.io/gallery/" // to test
           }
           this.item.image_url = rootURL + this.item.image_url
         }
