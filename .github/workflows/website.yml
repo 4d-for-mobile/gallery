@@ -20,7 +20,7 @@ jobs:
         run: |
           cd website
           IFS='/' read -r OWNER REPOSITORY <<< "$GITHUB_REPOSITORY"
-          npm config set "@$OWNER:registry" https://npm.pkg.github.com/$OWNER/ && \
+          npm config set "@"$OWNER":registry" https://npm.pkg.github.com/$OWNER/ && \
           npm config set "//npm.pkg.github.com/:_authToken" "${{ secrets.GPR2_TOKEN }}"
       - name: 📦 Install dependencies
         run: |
