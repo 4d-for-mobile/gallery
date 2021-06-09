@@ -34,7 +34,7 @@ export default {
       this.type = this.$route.params.type;
       console.log("fetch");
       api
-        .repositories("4d-for-ios-" + this.type)
+        .repositories(this.type)
         .then(json => {
           this.items = json.items;
           this.filter();

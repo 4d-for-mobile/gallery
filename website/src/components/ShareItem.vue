@@ -20,7 +20,7 @@
           <div class="d-flex flex-row">
             
             <div class="col-3 col-sm3">
-              <a href="https://github.com/4d-for-mobile/gallery/blob/master/.github/CONTRIBUTING.md">
+              <a href="https://github.com/4d-go-mobile/gallery/blob/master/.github/CONTRIBUTING.md">
                 <font-awesome-icon icon="question-circle" />
                 <span class="v-align-baseline">Guide</span>  
               </a>
@@ -45,7 +45,7 @@ export default {
   methods: {
     share() {
       window.open(
-        "https://github.com/4d-for-mobile/gallery/blob/master/.github/CONTRIBUTING.md#how-do-you-add-a-package"
+        "https://github.com/4d-go-mobile/gallery/blob/master/.github/CONTRIBUTING.md#how-do-you-add-a-package"
       );
     }
   }

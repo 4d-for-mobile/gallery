@@ -11,7 +11,7 @@ Please do submit your own, or other people's repositories to the lists. There ar
 * The simple URL for the repository should be submitted, no need to add the .git extension.
 * Packages must be publicly available, no private repository.
 
-**Note:** There's no gatekeeping or quality threshold to be included in this list. But its better to follow continous integration workflow defined by [check-workflow](https://github.com/4d-for-mobile/check-workflow/) repository to ensure top quality extension.
+**Note:** There's no gatekeeping or quality threshold to be included in this list. But its better to follow continous integration workflow defined by [check-workflow](https://github.com/4d-go-mobile/check-workflow/) repository to ensure top quality extension.
 
 ### How do you add a package?
 
@@ -21,7 +21,7 @@ If you plan to submit a set of packages, there is no need to submit each package
 
 #### or simply edit files online (you must be logged to github)
 
-- 📝 [list form](https://github.com/4d-for-mobile/gallery/edit/master/4d-for-ios-form-list.txt)
-- 📝[detail form](https://github.com/4d-for-mobile/gallery/edit/master/4d-for-ios-form-detail.txt)
-- 📝[login form](https://github.com/4d-for-mobile/gallery/edit/master/4d-for-ios-form-login.txt)
-- 📝[formatter](https://github.com/4d-for-mobile/gallery/edit/master/4d-for-ios-formatter.txt)
+- 📝[list form](https://github.com/4d-go-mobile/gallery/edit/master/form-list.txt)
+- 📝[detail form](https://github.com/4d-go-mobile/gallery/edit/master/form-detail.txt)
+- 📝[login form](https://github.com/4d-go-mobile/gallery/edit/master/form-login.txt)
+- 📝[formatter](https://github.com/4d-go-mobile/gallery/edit/master/formatter.txt)
