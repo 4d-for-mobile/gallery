@@ -10,7 +10,7 @@
         "publish-gh-pages": "gallery-publish"
     },
     "dependencies": {
-        "@4d-for-mobile/gallery_api": "^1.2.2",
+        "@4d-go-mobile/gallery_api": "^1.3.2",
         "@fortawesome/fontawesome-svg-core": "^1.2.27",
         "@fortawesome/free-brands-svg-icons": "^5.12.1",
         "@fortawesome/free-regular-svg-icons": "^5.12.1",

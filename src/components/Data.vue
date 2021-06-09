@@ -10,7 +10,7 @@
 import Item from "./Item.vue";
 import ShareItem from "./ShareItem.vue";
 import GalleryItem from "./GalleryItem.vue";
-import api from "@4d-for-mobile/gallery_api";
+import api from "@4d-go-mobile/gallery_api";
 
 import { serverBus } from '../main.js';
 
