@@ -19,7 +19,7 @@ jobs:
       - name: 🔐 npm auth gpr auth
         run: |
           cd website
-          npm config set "@4d-for-mobile:registry" https://npm.pkg.github.com/4d-for-mobile/ && \
+          npm config set "@4d-go-mobile:registry" https://npm.pkg.github.com/4d-go-mobile/ && \
           npm config set "//npm.pkg.github.com/:_authToken" "${{ secrets.GPR2_TOKEN }}"
       - name: 📦 Install dependencies
         run: |
