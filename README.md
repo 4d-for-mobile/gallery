@@ -5,6 +5,6 @@
 
 The extension gallery project contains list of curated github projects.
 
-https://4d-for-mobile.github.io/gallery/
+https://4d-go-mobile.github.io/gallery/
 
 To contribute read the [contribution guide](.github/CONTRIBUTING.md)
