@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-CardsTable/zipball/0.1.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-CardsTable/releases{/id}",
-  "size": 1648,
+  "size": 1649,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-CardsTable/{archive_format}{/ref}",
     "archived": false,

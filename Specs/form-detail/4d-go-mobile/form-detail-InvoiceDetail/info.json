@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-InvoiceDetail/zipball/0.1.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-InvoiceDetail/releases{/id}",
-  "size": 530,
+  "size": 531,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-detail-InvoiceDetail/{archive_format}{/ref}",
     "archived": false,

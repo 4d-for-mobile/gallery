@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-Mozaic/zipball/0.1.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-Mozaic/releases{/id}",
-  "size": 5115,
+  "size": 5116,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-Mozaic/{archive_format}{/ref}",
     "archived": false,

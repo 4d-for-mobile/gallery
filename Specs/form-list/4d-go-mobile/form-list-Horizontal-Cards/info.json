@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-Horizontal-Cards/zipball/0.1.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-Horizontal-Cards/releases{/id}",
-  "size": 1800,
+  "size": 1801,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-Horizontal-Cards/{archive_format}{/ref}",
     "archived": false,

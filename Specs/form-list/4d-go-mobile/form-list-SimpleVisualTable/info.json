@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleVisualTable/zipball/0.1.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleVisualTable/releases{/id}",
-  "size": 2545,
+  "size": 2546,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-SimpleVisualTable/{archive_format}{/ref}",
     "archived": false,

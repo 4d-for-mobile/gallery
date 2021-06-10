@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-Numbers/zipball/0.1.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-Numbers/releases{/id}",
-  "size": 1269,
+  "size": 1270,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-Numbers/{archive_format}{/ref}",
     "archived": false,

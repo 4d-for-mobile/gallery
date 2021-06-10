@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksDetail/zipball/0.1.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksDetail/releases{/id}",
-  "size": 228,
+  "size": 229,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-detail-TasksDetail/{archive_format}{/ref}",
     "archived": false,

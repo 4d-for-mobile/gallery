@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxDetail/zipball/0.1.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxDetail/releases{/id}",
-  "size": 1510,
+  "size": 1511,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-detail-ParallaxDetail/{archive_format}{/ref}",
     "archived": false,

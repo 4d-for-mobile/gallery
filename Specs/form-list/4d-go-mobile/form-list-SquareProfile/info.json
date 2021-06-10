@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/zipball/0.1.1"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases{/id}",
-  "size": 2003,
+  "size": 2004,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-SquareProfile/{archive_format}{/ref}",
     "archived": false,

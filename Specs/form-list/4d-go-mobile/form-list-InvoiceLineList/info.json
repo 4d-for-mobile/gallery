@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/zipball/0.1.1"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/releases{/id}",
-  "size": 3334,
+  "size": 3335,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-InvoiceLineList/{archive_format}{/ref}",
     "archived": false,
