@@ -207,21 +207,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/pulls{/number}",
-  "pushed_at": "2021-06-10T06:57:36Z",
+  "pushed_at": "2021-06-11T09:49:00Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-detail-ParallaxHeader/releases/download/0.1.2/form-detail-ParallaxHeader.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-detail-ParallaxHeader/releases/download/0.1.3/form-detail-ParallaxHeader.zip",
         "content_type": "application/zip",
-        "created_at": "2021-04-23T08:07:13Z",
-        "download_count": 6,
-        "id": 35671991,
+        "created_at": "2021-06-11T09:57:56Z",
+        "download_count": 0,
+        "id": 38435772,
         "label": "",
         "name": "form-detail-ParallaxHeader.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM1NjcxOTkx",
-        "size": 1342911,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM4NDM1Nzcy",
+        "size": 1342912,
         "state": "uploaded",
-        "updated_at": "2021-04-23T08:07:13Z",
+        "updated_at": "2021-06-11T09:57:57Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -242,10 +242,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/releases/assets/35671991"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/releases/assets/38435772"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/releases/41887789/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/releases/44468707/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -267,20 +267,20 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2021-04-23T07:59:35Z",
+    "created_at": "2021-06-11T09:40:00Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-detail-ParallaxHeader/releases/tag/0.1.2",
-    "id": 41887789,
-    "name": "👓 Adjustments",
-    "node_id": "MDc6UmVsZWFzZTQxODg3Nzg5",
+    "html_url": "https://github.com/4d-go-mobile/form-detail-ParallaxHeader/releases/tag/0.1.3",
+    "id": 44468707,
+    "name": "✏️ Adjustments",
+    "node_id": "MDc6UmVsZWFzZTQ0NDY4NzA3",
     "prerelease": false,
-    "published_at": "2021-04-23T08:06:36Z",
-    "tag_name": "0.1.2",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/tarball/0.1.2",
+    "published_at": "2021-06-11T09:49:00Z",
+    "tag_name": "0.1.3",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/tarball/0.1.3",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/releases/41887789/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/releases/41887789",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/zipball/0.1.2"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/releases/44468707/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/releases/44468707",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/zipball/0.1.3"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/releases{/id}",
   "size": 1322,
@@ -397,7 +397,7 @@
   "teams_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/teams",
   "temp_clone_token": "",
   "trees_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/git/trees{/sha}",
-  "updated_at": "2021-06-10T06:57:39Z",
+  "updated_at": "2021-06-11T09:40:03Z",
   "url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader",
   "visibility": "public",
   "watchers": 0,
