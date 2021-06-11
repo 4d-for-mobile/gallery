@@ -207,7 +207,7 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable/pulls{/number}",
-  "pushed_at": "2021-03-29T07:16:12Z",
+  "pushed_at": "2021-06-10T06:57:04Z",
   "release": {
     "assets": [
       {
@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable/zipball/0.1.1"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable/releases{/id}",
-  "size": 544,
+  "size": 545,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-SimpleTable/{archive_format}{/ref}",
     "archived": false,
@@ -397,7 +397,7 @@
   "teams_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable/teams",
   "temp_clone_token": "",
   "trees_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable/git/trees{/sha}",
-  "updated_at": "2021-03-29T07:16:00Z",
+  "updated_at": "2021-06-10T06:57:07Z",
   "url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable",
   "visibility": "public",
   "watchers": 0,
