@@ -4,18 +4,18 @@
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
       "download_count": 1,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-Cards/releases/download/0.1.2/form-detail-Cards.zip",
+      "download_url": "https://github.com/4d-go-mobile/form-detail-Cards/releases/download/0.1.3/form-detail-Cards.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-Cards",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-Cards/0.1.2/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-Cards/0.1.3/logo.png",
       "name": "Cards Detail",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-Cards/0.1.2/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-Cards/0.1.3/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Cards/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.2"
+      "version": "0.1.3"
     },
     {
       "author": "4d-go-mobile",
@@ -52,19 +52,19 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 8,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-Dashboard/releases/download/0.1.1/form-detail-Dashboard.zip",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-Dashboard/releases/download/0.1.2/form-detail-Dashboard.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-Dashboard",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-Dashboard/0.1.1/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-Dashboard/0.1.2/logo.png",
       "name": "Dashboard",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-Dashboard/0.1.1/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-Dashboard/0.1.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "author": "4d-go-mobile",
@@ -85,19 +85,19 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 7,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-LeftCutHeader/releases/download/0.1.3/form-detail-LeftCutHeader.zip",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-LeftCutHeader/releases/download/0.1.4/form-detail-LeftCutHeader.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-LeftCutHeader",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-LeftCutHeader/0.1.3/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-LeftCutHeader/0.1.4/logo.png",
       "name": "Left Cut Header",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-LeftCutHeader/0.1.3/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-LeftCutHeader/0.1.4/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.3"
+      "version": "0.1.4"
     },
     {
       "author": "4d-go-mobile",
@@ -134,31 +134,14 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 6,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-ParallaxHeader/releases/download/0.1.2/form-detail-ParallaxHeader.zip",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-ParallaxHeader/releases/download/0.1.3/form-detail-ParallaxHeader.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-ParallaxHeader",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-ParallaxHeader/0.1.2/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-ParallaxHeader/0.1.3/logo.png",
       "name": "Parallax Header",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-ParallaxHeader/0.1.2/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-ParallaxHeader/0.1.3/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxHeader/stargazers",
-      "target": [
-        "ios",
-        "android"
-      ],
-      "version": "0.1.2"
-    },
-    {
-      "author": "4d-go-mobile",
-      "description": "4D Mobile Detail Form template",
-      "download_count": 6,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-RightCutHeader/releases/download/0.1.3/form-detail-RightCutHeader.zip",
-      "html_url": "https://github.com/4d-go-mobile/form-detail-RightCutHeader",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-RightCutHeader/0.1.3/logo.png",
-      "name": "Right Cut Header",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-RightCutHeader/0.1.3/preview.gif",
-      "stargazers_count": 0,
-      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-RightCutHeader/stargazers",
       "target": [
         "ios",
         "android"
@@ -168,53 +151,70 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 9,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-SimpleContact/releases/download/0.1.1/form-detail-SimpleContact.zip",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-RightCutHeader/releases/download/0.1.4/form-detail-RightCutHeader.zip",
+      "html_url": "https://github.com/4d-go-mobile/form-detail-RightCutHeader",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-RightCutHeader/0.1.4/logo.png",
+      "name": "Right Cut Header",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-RightCutHeader/0.1.4/preview.gif",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-RightCutHeader/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.4"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "4D Mobile Detail Form template",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-SimpleContact/releases/download/0.1.2/form-detail-SimpleContact.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-SimpleContact",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleContact/0.1.1/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleContact/0.1.2/logo.png",
       "name": "Simple Contact",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleContact/0.1.1/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleContact/0.1.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-SimpleContact/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 5,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-SimpleHeader/releases/download/0.1.1/form-detail-SimpleHeader.zip",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-SimpleHeader/releases/download/0.1.2/form-detail-SimpleHeader.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-SimpleHeader",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleHeader/0.1.1/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleHeader/0.1.2/logo.png",
       "name": "Simple Header",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleHeader/0.1.1/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleHeader/0.1.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-SimpleHeader/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 6,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-SimpleList/releases/download/0.1.1/form-detail-SimpleList.zip",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-SimpleList/releases/download/0.1.2/form-detail-SimpleList.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-SimpleList",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleList/0.1.1/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleList/0.1.2/logo.png",
       "name": "Simple List",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleList/0.1.1/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-SimpleList/0.1.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-SimpleList/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "author": "4d-go-mobile",
@@ -268,18 +268,18 @@
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
       "download_count": 1,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/download/0.1.3/form-detail-TasksPlus.zip",
+      "download_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/download/0.1.4/form-detail-TasksPlus.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-TasksPlus/0.1.3/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-TasksPlus/0.1.4/logo.png",
       "name": "Tasks Detail Plus",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-TasksPlus/0.1.3/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-TasksPlus/0.1.4/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.3"
+      "version": "0.1.4"
     },
     {
       "author": "4d-go-mobile",
@@ -300,24 +300,24 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 6,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-VisualContact/releases/download/0.1.2/form-detail-VisualContact.zip",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-VisualContact/releases/download/0.1.3/form-detail-VisualContact.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-VisualContact",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-VisualContact/0.1.2/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-VisualContact/0.1.3/logo.png",
       "name": "Visual Contact",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-VisualContact/0.1.2/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-VisualContact/0.1.3/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-VisualContact/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.2"
+      "version": "0.1.3"
     },
     {
       "author": "mesopelagique",
       "description": "WebArea detail for 4d for ios",
-      "download_count": 9,
+      "download_count": 10,
       "download_url": "https://github.com/mesopelagique/form-detail-WebArea/releases/download/0.0.1/form-detail-WebArea.zip",
       "html_url": "https://github.com/mesopelagique/form-detail-WebArea",
       "image_url": "Specs/form-detail/mesopelagique/form-detail-WebArea/0.0.1/logo.png",

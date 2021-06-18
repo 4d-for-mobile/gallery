@@ -19,19 +19,19 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 20,
-      "download_url": "https://github.com/4d-go-mobile/form-list-ClientList/releases/download/0.1.1/form-list-ClientList.zip",
+      "download_count": 4,
+      "download_url": "https://github.com/4d-go-mobile/form-list-ClientList/releases/download/0.1.2/form-list-ClientList.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-ClientList",
-      "image_url": "Specs/form-list/4d-go-mobile/form-list-ClientList/0.1.1/logo.png",
+      "image_url": "Specs/form-list/4d-go-mobile/form-list-ClientList/0.1.2/logo.png",
       "name": "Client List",
-      "preview_url": "Specs/form-list/4d-go-mobile/form-list-ClientList/0.1.1/preview.gif",
+      "preview_url": "Specs/form-list/4d-go-mobile/form-list-ClientList/0.1.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-list-ClientList/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "author": "4d-go-mobile",
@@ -68,7 +68,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 7,
+      "download_count": 8,
       "download_url": "https://github.com/4d-go-mobile/form-list-FiveLabelsList/releases/download/0.1.1/form-list-FiveLabelsList.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-FiveLabelsList",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-FiveLabelsList/0.1.1/logo.png",
