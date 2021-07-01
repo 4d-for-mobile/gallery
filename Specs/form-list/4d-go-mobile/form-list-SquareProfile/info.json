@@ -207,21 +207,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/pulls{/number}",
-  "pushed_at": "2021-07-01T13:47:37Z",
+  "pushed_at": "2021-07-01T14:41:57Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-list-SquareProfile/releases/download/0.1.1/form-list-SquareProfile.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-list-SquareProfile/releases/download/0.1.2/form-list-SquareProfile.zip",
         "content_type": "application/zip",
-        "created_at": "2021-04-08T16:01:54Z",
-        "download_count": 15,
-        "id": 34658100,
+        "created_at": "2021-07-01T15:02:32Z",
+        "download_count": 0,
+        "id": 39560171,
         "label": "",
         "name": "form-list-SquareProfile.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM0NjU4MTAw",
-        "size": 2043416,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM5NTYwMTcx",
+        "size": 2043436,
         "state": "uploaded",
-        "updated_at": "2021-04-08T16:01:54Z",
+        "updated_at": "2021-07-01T15:02:32Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -242,10 +242,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases/assets/34658100"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases/assets/39560171"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases/41133434/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases/45566509/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -267,23 +267,23 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2021-04-08T15:53:51Z",
+    "created_at": "2021-07-01T13:47:36Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-list-SquareProfile/releases/tag/0.1.1",
-    "id": 41133434,
-    "name": "🧹 Clean Android layout",
-    "node_id": "MDc6UmVsZWFzZTQxMTMzNDM0",
+    "html_url": "https://github.com/4d-go-mobile/form-list-SquareProfile/releases/tag/0.1.2",
+    "id": 45566509,
+    "name": "👷‍♂️ Adjustments",
+    "node_id": "MDc6UmVsZWFzZTQ1NTY2NTA5",
     "prerelease": false,
-    "published_at": "2021-04-08T15:54:05Z",
-    "tag_name": "0.1.1",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/tarball/0.1.1",
+    "published_at": "2021-07-01T14:41:58Z",
+    "tag_name": "0.1.2",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/tarball/0.1.2",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases/41133434/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases/41133434",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/zipball/0.1.1"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases/45566509/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases/45566509",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/zipball/0.1.2"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases{/id}",
-  "size": 2004,
+  "size": 2005,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-SquareProfile/{archive_format}{/ref}",
     "archived": false,

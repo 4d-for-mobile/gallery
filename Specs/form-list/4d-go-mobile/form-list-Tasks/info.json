@@ -207,21 +207,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/pulls{/number}",
-  "pushed_at": "2021-07-01T13:47:24Z",
+  "pushed_at": "2021-07-01T14:42:09Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-list-Tasks/releases/download/0.1.2/form-list-Tasks.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-list-Tasks/releases/download/0.1.3/form-list-Tasks.zip",
         "content_type": "application/zip",
-        "created_at": "2021-06-03T06:38:00Z",
-        "download_count": 3,
-        "id": 37988277,
+        "created_at": "2021-07-01T14:42:29Z",
+        "download_count": 0,
+        "id": 39558806,
         "label": "",
         "name": "form-list-Tasks.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM3OTg4Mjc3",
-        "size": 1144720,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM5NTU4ODA2",
+        "size": 1144726,
         "state": "uploaded",
-        "updated_at": "2021-06-03T06:38:01Z",
+        "updated_at": "2021-07-01T14:42:30Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -242,10 +242,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/releases/assets/37988277"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/releases/assets/39558806"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/releases/44021732/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/releases/45566526/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -267,23 +267,23 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2021-06-03T06:30:51Z",
+    "created_at": "2021-07-01T13:47:24Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-list-Tasks/releases/tag/0.1.2",
-    "id": 44021732,
-    "name": "👓 Add text to image formatter compatibility",
-    "node_id": "MDc6UmVsZWFzZTQ0MDIxNzMy",
+    "html_url": "https://github.com/4d-go-mobile/form-list-Tasks/releases/tag/0.1.3",
+    "id": 45566526,
+    "name": "👷‍♂️ Adjustments",
+    "node_id": "MDc6UmVsZWFzZTQ1NTY2NTI2",
     "prerelease": false,
-    "published_at": "2021-06-03T06:37:32Z",
-    "tag_name": "0.1.2",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/tarball/0.1.2",
+    "published_at": "2021-07-01T14:42:09Z",
+    "tag_name": "0.1.3",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/tarball/0.1.3",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-Tasks/releases/44021732/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/releases/44021732",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/zipball/0.1.2"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-Tasks/releases/45566526/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/releases/45566526",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/zipball/0.1.3"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-Tasks/releases{/id}",
-  "size": 1127,
+  "size": 1129,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-Tasks/{archive_format}{/ref}",
     "archived": false,
