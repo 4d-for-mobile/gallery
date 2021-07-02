@@ -1,2 +1,2 @@
-https://github.com/4d-for-ios/form-login-SignInWithApple
+https://github.com/4d-go-mobile/form-login-SignInWithApple
 https://github.com/mesopelagique/form-login-SignInWithQRCode
