@@ -1,14 +1,14 @@
 {
   "items": [
     {
-      "author": "4d-for-ios",
+      "author": "4d-go-mobile",
       "description": "4D for iOS Login Form template",
-      "download_count": 0,
-      "download_url": "https://github.com/4d-for-ios/form-login-SignInWithApple/releases/download/0.0.2/form-login-SignInWithApple.zip",
-      "html_url": "https://github.com/4d-for-ios/form-login-SignInWithApple",
+      "download_count": 17,
+      "download_url": "https://github.com/4d-go-mobile/form-login-SignInWithApple/releases/download/0.0.2/form-login-SignInWithApple.zip",
+      "html_url": "https://github.com/4d-go-mobile/form-login-SignInWithApple",
       "name": "signinwithapple",
       "stargazers_count": 0,
-      "stargazers_url": "https://api.github.com/repos/4d-for-ios/form-login-SignInWithApple/stargazers",
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-login-SignInWithApple/stargazers",
       "version": "0.0.2"
     },
     {
