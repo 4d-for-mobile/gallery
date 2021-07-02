@@ -3,7 +3,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 70,
+      "download_count": 71,
       "download_url": "https://github.com/4d-go-mobile/formatter-Address/releases/download/0.0.1/formatter-Address.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Address",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Address/0.0.1/logo.png",
@@ -18,7 +18,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 48,
+      "download_count": 49,
       "download_url": "https://github.com/4d-go-mobile/formatter-BoolToImage/releases/download/0.0.1/formatter-BoolToImage.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-BoolToImage",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-BoolToImage/0.0.1/logo.png",
@@ -31,7 +31,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 37,
+      "download_count": 38,
       "download_url": "https://github.com/4d-go-mobile/formatter-Emoji/releases/download/0.0.1/formatter-Emoji.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Emoji",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Emoji/0.0.1/logo.png",
@@ -44,7 +44,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 44,
+      "download_count": 45,
       "download_url": "https://github.com/4d-go-mobile/formatter-Html/releases/download/0.0.1/formatter-Html.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Html",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Html/0.0.1/logo.png",
@@ -59,7 +59,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 37,
+      "download_count": 38,
       "download_url": "https://github.com/4d-go-mobile/formatter-IntToString/releases/download/0.0.1/formatter-IntToString.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-IntToString",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-IntToString/0.0.1/logo.png",
@@ -72,7 +72,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 31,
+      "download_count": 32,
       "download_url": "https://github.com/4d-go-mobile/formatter-IntegerToImage/releases/download/0.0.1/formatter-IntegerToImage.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-IntegerToImage",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-IntegerToImage/0.0.1/logo.png",
@@ -85,7 +85,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 81,
+      "download_count": 82,
       "download_url": "https://github.com/4d-go-mobile/formatter-Mail/releases/download/0.0.1/formatter-Mail.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Mail",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Mail/0.0.1/logo.png",
@@ -100,7 +100,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 58,
+      "download_count": 59,
       "download_url": "https://github.com/4d-go-mobile/formatter-Phone/releases/download/0.0.1/formatter-Phone.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Phone",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Phone/0.0.1/logo.png",
@@ -115,7 +115,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 28,
+      "download_count": 29,
       "download_url": "https://github.com/4d-go-mobile/formatter-TextToImage/releases/download/0.0.1/formatter-TextToImage.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-TextToImage",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-TextToImage/0.0.1/logo.png",
@@ -128,7 +128,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 36,
+      "download_count": 37,
       "download_url": "https://github.com/4d-go-mobile/formatter-TextToString/releases/download/0.0.1/formatter-TextToString.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-TextToString",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-TextToString/0.0.1/logo.png",
@@ -141,7 +141,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 35,
+      "download_count": 36,
       "download_url": "https://github.com/4d-go-mobile/formatter-Url/releases/download/0.0.1/formatter-Url.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Url",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Url/0.0.1/logo.png",
@@ -156,7 +156,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Download url and open activity form to choose what to do with the file",
-      "download_count": 13,
+      "download_count": 14,
       "download_url": "https://github.com/4d-go-mobile/formatter-DownloadActivity/releases/download/0.0.2/formatter-DownloadActivity.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-DownloadActivity",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-DownloadActivity/0.0.2/logo.png",
