@@ -267,19 +267,19 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 2,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/download/0.1.5/form-detail-TasksPlus.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/download/0.1.6/form-detail-TasksPlus.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-TasksPlus/0.1.5/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-TasksPlus/0.1.6/logo.png",
       "name": "Tasks Detail Plus",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-TasksPlus/0.1.5/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-TasksPlus/0.1.6/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/stargazers",
       "target": [
         "ios",
         "android"
       ],
-      "version": "0.1.5"
+      "version": "0.1.6"
     },
     {
       "author": "4d-go-mobile",
