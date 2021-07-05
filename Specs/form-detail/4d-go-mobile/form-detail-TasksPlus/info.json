@@ -214,7 +214,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/download/0.1.6/form-detail-TasksPlus.zip",
         "content_type": "application/zip",
         "created_at": "2021-07-05T10:53:38Z",
-        "download_count": 0,
+        "download_count": 1,
         "id": 39753082,
         "label": "",
         "name": "form-detail-TasksPlus.zip",
@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/zipball/0.1.6"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases{/id}",
-  "size": 177,
+  "size": 178,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-detail-TasksPlus/{archive_format}{/ref}",
     "archived": false,
