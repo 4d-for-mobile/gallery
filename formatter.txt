@@ -10,3 +10,4 @@ https://github.com/4d-go-mobile/formatter-TextToImage
 https://github.com/4d-go-mobile/formatter-TextToString
 https://github.com/4d-go-mobile/formatter-Url
 https://github.com/4d-go-mobile/formatter-DownloadActivity
+https://github.com/mesopelagique/formatter-UrlInApp
