@@ -167,6 +167,21 @@
         "ios"
       ],
       "version": "0.0.2"
+    },
+    {
+      "author": "mesopelagique",
+      "description": "Open url into internal app web browser",
+      "download_count": 0,
+      "download_url": "https://github.com/mesopelagique/formatter-UrlInApp/releases/download/0.0.2/formatter-UrlInApp.zip",
+      "html_url": "https://github.com/mesopelagique/formatter-UrlInApp",
+      "image_url": "Specs/formatter/mesopelagique/formatter-UrlInApp/0.0.2/logo.png",
+      "name": "urlInApp",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/mesopelagique/formatter-UrlInApp/stargazers",
+      "target": [
+        "ios"
+      ],
+      "version": "0.0.2"
     }
   ]
 }
