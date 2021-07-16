@@ -3,7 +3,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 71,
+      "download_count": 72,
       "download_url": "https://github.com/4d-go-mobile/formatter-Address/releases/download/0.0.1/formatter-Address.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Address",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Address/0.0.1/logo.png",
@@ -72,7 +72,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D for iOS Data Formatter",
-      "download_count": 32,
+      "download_count": 33,
       "download_url": "https://github.com/4d-go-mobile/formatter-IntegerToImage/releases/download/0.0.1/formatter-IntegerToImage.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-IntegerToImage",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-IntegerToImage/0.0.1/logo.png",
@@ -163,6 +163,21 @@
       "name": "downloadActivity",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-DownloadActivity/stargazers",
+      "target": [
+        "ios"
+      ],
+      "version": "0.0.2"
+    },
+    {
+      "author": "mesopelagique",
+      "description": "Open url into internal app web browser",
+      "download_count": 1,
+      "download_url": "https://github.com/mesopelagique/formatter-UrlInApp/releases/download/0.0.2/formatter-UrlInApp.zip",
+      "html_url": "https://github.com/mesopelagique/formatter-UrlInApp",
+      "image_url": "Specs/formatter/mesopelagique/formatter-UrlInApp/0.0.2/logo.png",
+      "name": "urlInApp",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/mesopelagique/formatter-UrlInApp/stargazers",
       "target": [
         "ios"
       ],
