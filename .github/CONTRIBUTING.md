@@ -25,3 +25,4 @@ If you plan to submit a set of packages, there is no need to submit each package
 - 📝[detail form](https://github.com/4d-go-mobile/gallery/edit/master/form-detail.txt)
 - 📝[login form](https://github.com/4d-go-mobile/gallery/edit/master/form-login.txt)
 - 📝[formatter](https://github.com/4d-go-mobile/gallery/edit/master/formatter.txt)
+- 📝[input-control](https://github.com/4d-go-mobile/gallery/edit/master/input-control.txt) (19R3)
