@@ -20,6 +20,9 @@
               <li>
                 <router-link class="link" to="/type/formatter"><b>Formatters</b></router-link>
               </li>
+              <li>
+                <router-link class="link" to="/type/input-control"><b>Input Control</b></router-link>
+              </li>
               <li  class="navSearchWrapper reactNavSearchWrapper">
                 <span
                   class="algolia-autocomplete"
