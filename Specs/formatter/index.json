@@ -2,7 +2,7 @@
   "items": [
     {
       "author": "4d-go-mobile",
-      "description": "4D for iOS Data Formatter",
+      "description": "Open the map app with the selected address",
       "download_count": 72,
       "download_url": "https://github.com/4d-go-mobile/formatter-Address/releases/download/0.0.1/formatter-Address.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Address",
@@ -30,7 +30,7 @@
     },
     {
       "author": "4d-go-mobile",
-      "description": "4D for iOS Data Formatter",
+      "description": "Example to bind bool or number field to an emoji to represent the gender (👩, 👨, 🧑)",
       "download_count": 38,
       "download_url": "https://github.com/4d-go-mobile/formatter-Emoji/releases/download/0.0.1/formatter-Emoji.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Emoji",
@@ -99,7 +99,7 @@
     },
     {
       "author": "4d-go-mobile",
-      "description": "4D for iOS Data Formatter",
+      "description": "when clicking on phone number open a menu to call or to add to user contact",
       "download_count": 59,
       "download_url": "https://github.com/4d-go-mobile/formatter-Phone/releases/download/0.0.1/formatter-Phone.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Phone",
@@ -140,7 +140,7 @@
     },
     {
       "author": "4d-go-mobile",
-      "description": "4D for iOS Data Formatter",
+      "description": "Open an url in external web view",
       "download_count": 36,
       "download_url": "https://github.com/4d-go-mobile/formatter-Url/releases/download/0.0.1/formatter-Url.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Url",
