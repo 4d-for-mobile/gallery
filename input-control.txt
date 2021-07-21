@@ -1,1 +1,2 @@
 https://github.com/4d-go-mobile/input-control-phoneContact
+https://github.com/4d-go-mobile/input-control-emailContact
