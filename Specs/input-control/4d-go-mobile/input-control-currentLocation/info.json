@@ -113,7 +113,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/input-control-currentLocation/releases/download/0.0.1/input-control-currentLocation.zip",
         "content_type": "application/zip",
         "created_at": "2021-07-22T06:05:14Z",
-        "download_count": 0,
+        "download_count": 1,
         "id": 40790586,
         "label": "",
         "name": "input-control-currentLocation.zip",
@@ -182,7 +182,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/input-control-currentLocation/zipball/0.0.1"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/input-control-currentLocation/releases{/id}",
-  "size": 9,
+  "size": 12,
   "ssh_url": "git@github.com:4d-go-mobile/input-control-currentLocation.git",
   "stargazers_count": 0,
   "stargazers_url": "https://api.github.com/repos/4d-go-mobile/input-control-currentLocation/stargazers",
