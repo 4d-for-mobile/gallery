@@ -207,21 +207,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/pulls{/number}",
-  "pushed_at": "2021-07-01T14:37:35Z",
+  "pushed_at": "2021-07-23T09:40:22Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-detail-LeftCutHeader/releases/download/0.1.5/form-detail-LeftCutHeader.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-detail-LeftCutHeader/releases/download/0.1.6/form-detail-LeftCutHeader.zip",
         "content_type": "application/zip",
-        "created_at": "2021-07-01T14:55:34Z",
-        "download_count": 3,
-        "id": 39559679,
+        "created_at": "2021-07-23T09:49:01Z",
+        "download_count": 1,
+        "id": 40872164,
         "label": "",
         "name": "form-detail-LeftCutHeader.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM5NTU5Njc5",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQwODcyMTY0",
         "size": 1152788,
         "state": "uploaded",
-        "updated_at": "2021-07-01T14:55:34Z",
+        "updated_at": "2021-07-23T09:49:01Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -242,10 +242,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases/assets/39559679"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases/assets/40872164"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases/45566157/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases/46661359/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -267,23 +267,23 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2021-07-01T14:12:01Z",
+    "created_at": "2021-07-23T09:40:05Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-detail-LeftCutHeader/releases/tag/0.1.5",
-    "id": 45566157,
+    "html_url": "https://github.com/4d-go-mobile/form-detail-LeftCutHeader/releases/tag/0.1.6",
+    "id": 46661359,
     "name": "👷‍♂️ Adjustments",
-    "node_id": "MDc6UmVsZWFzZTQ1NTY2MTU3",
+    "node_id": "MDc6UmVsZWFzZTQ2NjYxMzU5",
     "prerelease": false,
-    "published_at": "2021-07-01T14:37:36Z",
-    "tag_name": "0.1.5",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/tarball/0.1.5",
+    "published_at": "2021-07-23T09:40:22Z",
+    "tag_name": "0.1.6",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/tarball/0.1.6",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases/45566157/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases/45566157",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/zipball/0.1.5"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases/46661359/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases/46661359",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/zipball/0.1.6"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases{/id}",
-  "size": 1147,
+  "size": 1148,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-detail-LeftCutHeader/{archive_format}{/ref}",
     "archived": false,
@@ -397,7 +397,7 @@
   "teams_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/teams",
   "temp_clone_token": "",
   "trees_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/git/trees{/sha}",
-  "updated_at": "2021-07-01T14:12:04Z",
+  "updated_at": "2021-07-23T09:40:08Z",
   "url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader",
   "visibility": "public",
   "watchers": 0,
