@@ -214,7 +214,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-list-Profile/releases/download/0.1.3/form-list-Profile.zip",
         "content_type": "application/zip",
         "created_at": "2021-07-23T09:32:19Z",
-        "download_count": 0,
+        "download_count": 1,
         "id": 40871418,
         "label": "",
         "name": "form-list-Profile.zip",
@@ -283,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-Profile/zipball/0.1.3"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-Profile/releases{/id}",
-  "size": 1346,
+  "size": 1347,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-Profile/{archive_format}{/ref}",
     "archived": false,
