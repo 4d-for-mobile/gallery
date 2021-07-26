@@ -18,17 +18,17 @@
     {
       "author": "4d-go-mobile",
       "description": "Input control for mails that allow get thems from contacts",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-go-mobile/input-control-emailContact/releases/download/0.0.1/input-control-emailContact.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-go-mobile/input-control-emailContact/releases/download/0.0.2/input-control-emailContact.zip",
       "html_url": "https://github.com/4d-go-mobile/input-control-emailContact",
       "name": "emailContact",
-      "preview_url": "Specs/input-control/4d-go-mobile/input-control-emailContact/0.0.1/preview.gif",
+      "preview_url": "Specs/input-control/4d-go-mobile/input-control-emailContact/0.0.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/input-control-emailContact/stargazers",
       "target": [
         "ios"
       ],
-      "version": "0.0.1"
+      "version": "0.0.2"
     },
     {
       "author": "4d-go-mobile",
