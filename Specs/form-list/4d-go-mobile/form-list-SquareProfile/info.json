@@ -209,7 +209,42 @@
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/pulls{/number}",
   "pushed_at": "2021-07-27T14:02:14Z",
   "release": {
-    "assets": [],
+    "assets": [
+      {
+        "browser_download_url": "https://github.com/4d-go-mobile/form-list-SquareProfile/releases/download/0.1.4/form-list-SquareProfile.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-07-27T14:17:19Z",
+        "download_count": 0,
+        "id": 41115078,
+        "label": "",
+        "name": "form-list-SquareProfile.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQxMTE1MDc4",
+        "size": 2044679,
+        "state": "uploaded",
+        "updated_at": "2021-07-27T14:17:19Z",
+        "uploader": {
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/apps/github-actions",
+          "id": 41898282,
+          "login": "github-actions[bot]",
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "type": "Bot",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        },
+        "url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases/assets/41115078"
+      }
+    ],
     "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases/46838318/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
@@ -248,7 +283,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/zipball/0.1.4"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SquareProfile/releases{/id}",
-  "size": 2007,
+  "size": 2008,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-SquareProfile/{archive_format}{/ref}",
     "archived": false,
