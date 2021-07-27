@@ -207,21 +207,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/pulls{/number}",
-  "pushed_at": "2021-07-01T14:41:45Z",
+  "pushed_at": "2021-07-27T14:02:04Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-list-SmoothTable/releases/download/0.1.2/form-list-SmoothTable.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-list-SmoothTable/releases/download/0.1.4/form-list-SmoothTable.zip",
         "content_type": "application/zip",
-        "created_at": "2021-07-01T14:58:53Z",
-        "download_count": 4,
-        "id": 39559912,
+        "created_at": "2021-07-27T14:14:04Z",
+        "download_count": 1,
+        "id": 41114938,
         "label": "",
         "name": "form-list-SmoothTable.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM5NTU5OTEy",
-        "size": 1021332,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQxMTE0OTM4",
+        "size": 1022612,
         "state": "uploaded",
-        "updated_at": "2021-07-01T14:58:54Z",
+        "updated_at": "2021-07-27T14:14:04Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -242,10 +242,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/assets/39559912"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/assets/41114938"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/45566498/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/46838295/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -267,23 +267,23 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2021-07-01T13:48:00Z",
+    "created_at": "2021-07-27T13:59:06Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-list-SmoothTable/releases/tag/0.1.2",
-    "id": 45566498,
+    "html_url": "https://github.com/4d-go-mobile/form-list-SmoothTable/releases/tag/0.1.4",
+    "id": 46838295,
     "name": "👷‍♂️ Adjustments",
-    "node_id": "MDc6UmVsZWFzZTQ1NTY2NDk4",
+    "node_id": "MDc6UmVsZWFzZTQ2ODM4Mjk1",
     "prerelease": false,
-    "published_at": "2021-07-01T14:41:45Z",
-    "tag_name": "0.1.2",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/tarball/0.1.2",
+    "published_at": "2021-07-27T14:02:04Z",
+    "tag_name": "0.1.4",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/tarball/0.1.4",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/45566498/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/45566498",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/zipball/0.1.2"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/46838295/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/46838295",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/zipball/0.1.4"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases{/id}",
-  "size": 1006,
+  "size": 1009,
   "source": {
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-SmoothTable/{archive_format}{/ref}",
     "archived": false,
@@ -397,7 +397,7 @@
   "teams_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/teams",
   "temp_clone_token": "",
   "trees_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/git/trees{/sha}",
-  "updated_at": "2021-07-01T13:48:04Z",
+  "updated_at": "2021-07-27T13:59:09Z",
   "url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable",
   "visibility": "public",
   "watchers": 0,
