@@ -207,21 +207,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/pulls{/number}",
-  "pushed_at": "2021-07-23T09:48:22Z",
+  "pushed_at": "2021-07-27T13:39:52Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/download/0.1.7/form-detail-TasksPlus.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/download/0.1.8/form-detail-TasksPlus.zip",
         "content_type": "application/zip",
-        "created_at": "2021-07-23T09:53:48Z",
-        "download_count": 1,
-        "id": 40872363,
+        "created_at": "2021-07-27T13:55:44Z",
+        "download_count": 0,
+        "id": 41113889,
         "label": "",
         "name": "form-detail-TasksPlus.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDQwODcyMzYz",
-        "size": 156336,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQxMTEzODg5",
+        "size": 156160,
         "state": "uploaded",
-        "updated_at": "2021-07-23T09:53:48Z",
+        "updated_at": "2021-07-27T13:55:44Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -242,10 +242,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/assets/40872363"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/assets/41113889"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/46661757/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/46836481/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -267,20 +267,20 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2021-07-23T09:47:56Z",
+    "created_at": "2021-07-27T13:39:33Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/tag/0.1.7",
-    "id": 46661757,
+    "html_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/tag/0.1.8",
+    "id": 46836481,
     "name": "👷‍♂️ Adjustments",
-    "node_id": "MDc6UmVsZWFzZTQ2NjYxNzU3",
+    "node_id": "MDc6UmVsZWFzZTQ2ODM2NDgx",
     "prerelease": false,
-    "published_at": "2021-07-23T09:48:22Z",
-    "tag_name": "0.1.7",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/tarball/0.1.7",
+    "published_at": "2021-07-27T13:39:52Z",
+    "tag_name": "0.1.8",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/tarball/0.1.8",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/46661757/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/46661757",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/zipball/0.1.7"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/46836481/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/46836481",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/zipball/0.1.8"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases{/id}",
   "size": 179,
@@ -397,7 +397,7 @@
   "teams_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/teams",
   "temp_clone_token": "",
   "trees_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/git/trees{/sha}",
-  "updated_at": "2021-07-23T09:48:00Z",
+  "updated_at": "2021-07-27T13:39:36Z",
   "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus",
   "visibility": "public",
   "watchers": 0,
