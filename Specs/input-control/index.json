@@ -3,7 +3,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Edition row for phone with a picker to get phone from contacts",
-      "download_count": 4,
+      "download_count": 5,
       "download_url": "https://github.com/4d-go-mobile/input-control-phoneContact/releases/download/0.0.1/input-control-phoneContact.zip",
       "html_url": "https://github.com/4d-go-mobile/input-control-phoneContact",
       "name": "phoneContact",
@@ -18,7 +18,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Input control for mails that allow get thems from contacts",
-      "download_count": 1,
+      "download_count": 2,
       "download_url": "https://github.com/4d-go-mobile/input-control-emailContact/releases/download/0.0.2/input-control-emailContact.zip",
       "html_url": "https://github.com/4d-go-mobile/input-control-emailContact",
       "name": "emailContact",
