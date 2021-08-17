@@ -101,8 +101,10 @@
   },
   "permissions": {
     "admin": false,
+    "maintain": false,
     "pull": false,
-    "push": false
+    "push": false,
+    "triage": false
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/input-control-emailContact/pulls{/number}",
@@ -113,7 +115,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/input-control-emailContact/releases/download/0.0.2/input-control-emailContact.zip",
         "content_type": "application/zip",
         "created_at": "2021-07-26T07:24:08Z",
-        "download_count": 1,
+        "download_count": 3,
         "id": 41023229,
         "label": "",
         "name": "input-control-emailContact.zip",
