@@ -15,6 +15,7 @@ https://github.com/4d-go-mobile/form-list-Parallax
 https://github.com/4d-go-mobile/form-list-Profile
 https://github.com/4d-go-mobile/form-list-SimpleCollection
 https://github.com/4d-go-mobile/form-list-SimpleTable
+https://github.com/4d-go-mobile/form-list-Simple-table-with-picture
 https://github.com/4d-go-mobile/form-list-SimpleVisualTable
 https://github.com/4d-go-mobile/form-list-SlantedCollection
 https://github.com/4d-go-mobile/form-list-SmoothTable
