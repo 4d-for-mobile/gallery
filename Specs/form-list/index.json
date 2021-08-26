@@ -19,7 +19,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 6,
+      "download_count": 7,
       "download_url": "https://github.com/4d-go-mobile/form-list-ClientList/releases/download/0.1.4/form-list-ClientList.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-ClientList",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-ClientList/0.1.4/logo.png",
@@ -85,7 +85,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 13,
+      "download_count": 14,
       "download_url": "https://github.com/4d-go-mobile/form-list-FoldingCellList/releases/download/0.1.1/form-list-FoldingCellList.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-FoldingCellList",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-FoldingCellList/0.1.1/logo.png",
@@ -279,6 +279,23 @@
         "android"
       ],
       "version": "0.1.4"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "4D Mobile List Form template",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/form-list-Simple-table-with-picture/releases/download/0.1.1/form-list-Simple-table-with-picture.zip",
+      "html_url": "https://github.com/4d-go-mobile/form-list-Simple-table-with-picture",
+      "image_url": "Specs/form-list/4d-go-mobile/form-list-Simple-table-with-picture/0.1.1/logo.png",
+      "name": "Simple Table with pictures",
+      "preview_url": "Specs/form-list/4d-go-mobile/form-list-Simple-table-with-picture/0.1.1/preview.gif",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.1"
     },
     {
       "author": "4d-go-mobile",
